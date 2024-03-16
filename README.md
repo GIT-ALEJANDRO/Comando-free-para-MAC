@@ -3,7 +3,7 @@
 ![Alt text](Captura.png?raw=true "Captura imagen del programa")
 
 ## Contexto 
-"El comando `free` es una herramienta útil que proporciona información sobre el uso de la memoria del sistema.
+El comando `free` es una herramienta útil que proporciona información sobre el uso de la memoria del sistema.
 
 MacOs no dispone de este comando por defecto.
 
@@ -49,4 +49,5 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
----
+
+---
